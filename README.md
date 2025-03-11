@@ -1,9 +1,9 @@
 # Django CRUD App Lab
 
 
-## **Django CRUD App Lab – Setup**  
+## **Setup**  
 
-Before starting, follow these steps to **set up your project** correctly.  
+Follow these steps to **set up your project** correctly.  
 
 
 
@@ -83,8 +83,7 @@ exit
 ---
 
 
-## **Django CRUD App Lab - Exercise**  
-### **Build Your Own Full Stack Django Application**  
+## **Exercise**  
 
 In this lab, you will **apply what you learned** from the Django CRUD App (Cat_Collector) to build your **own project**.  
 
