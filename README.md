@@ -101,6 +101,7 @@ Use **Cat_Collector** as a reference to structure your app.
   ```bash
   python3 manage.py runserver
   ```  
+- Go to `http://localhost:8000/` to see your app.  
 
 
 
@@ -142,6 +143,7 @@ Use **Cat_Collector** as a reference to structure your app.
 
 ## **2. Implement Full CRUD for a Model**  
 Your app should allow users to **Create, Read, Update, and Delete (CRUD)** records.  
+
 Create **views (شاشات أو صفحات)** for:  
 - **Home (الصفحة الرئيسية)** – The main page  
 - **Index (قائمة العناصر)** – List all items  
