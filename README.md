@@ -85,7 +85,7 @@ exit
 ---
 
 
-## **Django CRUD App Lab**  
+## **Django CRUD App Lab - Exercise**  
 ### **Build Your Own Full Stack Django Application**  
 
 In this lab, you will **apply what you learned** from the Django CRUD App (Cat_Collector) to build your **own project**.  
