@@ -5,7 +5,7 @@
 
 Before starting, follow these steps to **set up your project** correctly.  
 
----
+
 
 ### **1. Open Your Terminal and Navigate to the Right Folder**  
 1. Open your **Terminal (سطر الأوامر)**.  
@@ -14,7 +14,7 @@ Before starting, follow these steps to **set up your project** correctly.
    cd ~/code/ga/lessons
    ```  
 
----
+
 
 ### **2. Create a New GitHub Repository**  
 1. Go to **GitHub** and create a new repository called `django-crud-app-lab`.  
@@ -29,7 +29,7 @@ Before starting, follow these steps to **set up your project** correctly.
    cd django-crud-app-lab
    ```  
 
----
+
 
 ### **3. Set Up a Virtual Environment and Install Django**  
 1. **Create a virtual environment (بيئة افتراضية)** inside your project folder:  
@@ -44,7 +44,7 @@ Before starting, follow these steps to **set up your project** correctly.
    ```  
    🧠 **Tip:** When the virtual environment is activated, you should see the environment name appear before your command prompt in the terminal.  
 
----
+
 
 ### **4. Name Your Django Project**  
 Before starting, choose a **name** for your Django project.  
@@ -60,7 +60,6 @@ Before starting, choose a **name** for your Django project.
 - `nationalparks` (for a park-related app)  
 - `bloghub` (for a blogging platform)  
 
----
 
 ### **5. Start a New Django Project**  
 1. Inside your virtual environment, **start a Django project** with your chosen name:  
@@ -74,7 +73,6 @@ Before starting, choose a **name** for your Django project.
    code .
    ```  
 
----
 
 ### **6. Deactivate the Virtual Environment**  
 When you're done working, **exit the virtual environment**:  
@@ -92,7 +90,7 @@ In this lab, you will **apply what you learned** from the Django CRUD App (Cat_C
 
 Use **Cat_Collector** as a reference to structure your app.  
 
----
+
 
 ## **1. Set Up Your Django Application**  
 
@@ -108,7 +106,7 @@ Use **Cat_Collector** as a reference to structure your app.
   python3 manage.py runserver
   ```  
 
----
+
 
 ### **Configure the Database**  
 1. **Create a database** for your app:  
@@ -130,7 +128,7 @@ Use **Cat_Collector** as a reference to structure your app.
    python3 manage.py migrate  
    ```  
 
----
+
 
 ### **Set Up URL Routing**  
 1. **Create a `urls.py` file** inside your app.  
@@ -144,7 +142,7 @@ Use **Cat_Collector** as a reference to structure your app.
    ]
    ```  
 
----
+
 
 ## **2. Implement Full CRUD for a Model**  
 Your app should allow users to **Create, Read, Update, and Delete (CRUD)** records.  
@@ -156,20 +154,20 @@ Create **views (شاشات أو صفحات)** for:
 - **Update (تعديل عنصر)** – Form to edit an item  
 - **Delete (حذف عنصر)** – Remove an item  
 
----
+
 
 ## **3. Add a Second Model with Relationships**  
 - Create a **second model** that connects to the first one (**one-to-many relationship - علاقة واحد إلى متعدد**).  
 - Add CRUD functionality for this new model.  
 
----
+
 
 ## **4. Add User Authentication (نظام تسجيل الدخول)**  
 - Use Django’s **built-in authentication system (نظام المصادقة في Django)** for user logins.  
 - Enable the Django **Admin Dashboard (لوحة تحكم المشرف)** to manage users.  
 - Protect private data: **Only logged-in users (المستخدمون المسجلون فقط)** should access certain pages.  
 
----
+
 
 ## **5. Level Up (Optional - تحسين التطبيق)**  
 - Add a **third model** with a **many-to-many relationship (علاقة متعدد إلى متعدد)**.  
