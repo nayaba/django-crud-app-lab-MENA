@@ -17,9 +17,9 @@ Use **Cat_Collector** as a reference to structure your app.
 
 - Start the **local server** to test if everything is working:  
   ```bash
-  python3 manage.py runserver
+  python3 manage.py runserver 8080
   ```  
-- Go to `http://localhost:8000/` to see your app.  
+- Go to `http://localhost:8080/` to see your app.  
 
 
 
