@@ -45,6 +45,7 @@ Follow these steps to **set up your project** correctly.
 Before starting, choose a **name** for your Django project.  
 
 ✅ Use all **lowercase names**.
+
 ❌ Do not use hyphens (`-`). Instead, use underscores (`_`).  
 
 #### **Examples of Good Names:**  
