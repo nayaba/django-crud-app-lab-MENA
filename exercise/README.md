@@ -63,7 +63,7 @@ Use **Cat_Collector** as a reference to structure your app.
 Your app should allow users to **Create, Read, Update, and Delete (CRUD)** records.  
 
 Create **views (شاشات أو صفحات)** for:  
-- **Home (الصفحة الرئيسية)** – The main page  
+- **[Home (الصفحة الرئيسية)](https://github.com/SEB-4-Bahrain/Django-CRUD-App-Cat-Collector/blob/main/django-urls-and-views/README.md#define-main_apps-home-page-url--view)** – The main page  
 - **Index (قائمة العناصر)** – List all items  
 - **Detail (تفاصيل العنصر)** – Show one item  
 - **Create (إضافة عنصر جديد)** – Form to add a new item  
