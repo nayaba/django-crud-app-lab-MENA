@@ -39,10 +39,7 @@ Follow these steps to **set up your project** correctly.
 2. **Activate the virtual environment**:  
    ```bash
    pipenv shell
-   ```  
-   🧠 **Tip:** When the virtual environment is activated, you should see the environment name appear before your command prompt in the terminal.  
-
-
+   ```   
 
 ### **4. Name Your Django Project**  
 Before starting, choose a **name** for your Django project.  
