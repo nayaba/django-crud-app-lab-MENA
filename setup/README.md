@@ -47,11 +47,8 @@ Follow these steps to **set up your project** correctly.
 ### **4. Name Your Django Project**  
 Before starting, choose a **name** for your Django project.  
 
-#### **Naming Guidelines:**  
-✅ The name should describe what the project does.  
-❌ Do not use names like `django`, `test`, or `djangoproject`, as these are **reserved words** in Python/Django.  
-❌ Do not use hyphens (`-`) in names. Instead, use underscores (`_`) or a single lowercase word.  
-✅ Python convention prefers all **lowercase names** to avoid issues on different systems.  
+✅ Use all **lowercase names**.
+❌ Do not use hyphens (`-`). Instead, use underscores (`_`).  
 
 #### **Examples of Good Names:**  
 - `finchcollector` (for a bird-collecting app)  
