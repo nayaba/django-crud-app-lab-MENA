@@ -26,4 +26,8 @@ Estimated time to complete core lab exercise: **8 - 12 hours**
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+### Running another server on 8080
+
+```bash
+python3 manage.py runserver 8080
+```
