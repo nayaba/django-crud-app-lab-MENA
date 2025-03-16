@@ -26,7 +26,7 @@ Estimated time to complete core lab exercise: **8 - 12 hours**
 
 ---
 
-### Running another server on 8080
+### ⭐️ Running another server on 8080
 
 ```bash
 python3 manage.py runserver 8080
